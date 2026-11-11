@@ -1,0 +1,5 @@
+Como abrir no NetBeans:
+1. Extraia este ZIP.
+2. No NetBeans: File > Open Project... e selecione a pasta "QuebraCabecaProjeto" (icone de Maven).
+3. Execute com F6 (Run Project).
+Requer JDK 11 ou superior.
